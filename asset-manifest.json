@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/apna-shop/static/css/main.6478a6f1.css",
-    "main.js": "/apna-shop/static/js/main.5b17ba82.js",
+    "main.js": "/apna-shop/static/js/main.9355e3eb.js",
     "static/media/three.png": "/apna-shop/static/media/three.853048fe845adc69b7bb.png",
     "static/media/one.png": "/apna-shop/static/media/one.cace5fe728e722e1d812.png",
     "static/media/two.png": "/apna-shop/static/media/two.23f065d257c03d5d75dc.png",
@@ -11,10 +11,10 @@
     "static/media/no item.webp": "/apna-shop/static/media/no item.eefcc6e0ca49456b385d.webp",
     "index.html": "/apna-shop/index.html",
     "main.6478a6f1.css.map": "/apna-shop/static/css/main.6478a6f1.css.map",
-    "main.5b17ba82.js.map": "/apna-shop/static/js/main.5b17ba82.js.map"
+    "main.9355e3eb.js.map": "/apna-shop/static/js/main.9355e3eb.js.map"
   },
   "entrypoints": [
     "static/css/main.6478a6f1.css",
-    "static/js/main.5b17ba82.js"
+    "static/js/main.9355e3eb.js"
   ]
 }
